@@ -9,13 +9,21 @@ Project link: [![Fork](https://vicentiubacioiu.github.io/img/fork.png)](https://
 
 ![Electron Music Player](https://vicentiubacioiu.github.io/img/player.png)  
 <br><br/>
+## To Do Vue
+A simple To Do List app, written in Vue JS 2.x
+
+Project status: **Done** ![Done](https://vicentiubacioiu.github.io/img/done.png)  
+Project link: [![Fork](https://vicentiubacioiu.github.io/img/fork.png)](https://github.com/VicentiuBacioiu/todo-vue)
+
+![To Do Vue](https://vicentiubacioiu.github.io/img/todovue.png)  
+<br><br/>
 ## To Do Box
 A simple To Do List app, written in Angular 1.x
 
 Project status: **Done** ![Done](https://vicentiubacioiu.github.io/img/done.png)  
 Project link: [![Fork](https://vicentiubacioiu.github.io/img/fork.png)](https://github.com/VicentiuBacioiu/todobox)
 
-![Electron Music Player](https://vicentiubacioiu.github.io/img/todobox.png)  
+![To Do Box](https://vicentiubacioiu.github.io/img/todobox.png)  
 <br><br/>
 ## Electron Stock Market
 A really simple Stock Market app, written in HTML, CSS and JavaScript using the Electron framework.
