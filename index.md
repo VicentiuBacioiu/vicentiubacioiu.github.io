@@ -12,6 +12,7 @@ Project link: [![Fork](https://vicentiubacioiu.github.io/img/fork.png)](https://
 ## To Do Vue
 A simple To Do List app, written in Vue JS 2.x
 
+[Try it out in your browser !](https://vicentiubacioiu.github.io/todo-vue)
 Project status: **Done** ![Done](https://vicentiubacioiu.github.io/img/done.png)  
 Project link: [![Fork](https://vicentiubacioiu.github.io/img/fork.png)](https://github.com/VicentiuBacioiu/todo-vue)
 
@@ -20,6 +21,7 @@ Project link: [![Fork](https://vicentiubacioiu.github.io/img/fork.png)](https://
 ## To Do Box
 A simple To Do List app, written in Angular 1.x
 
+[Try it out in your browser !](https://vicentiubacioiu.github.io/todo-vue)
 Project status: **Done** ![Done](https://vicentiubacioiu.github.io/img/done.png)  
 Project link: [![Fork](https://vicentiubacioiu.github.io/img/fork.png)](https://github.com/VicentiuBacioiu/todobox)
 
