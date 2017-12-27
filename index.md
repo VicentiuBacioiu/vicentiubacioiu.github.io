@@ -7,7 +7,7 @@ A really simple Stock Market app, written in Vue.js using the Electron framework
 Project status: **Done** ![In Progress](https://vicentiubacioiu.github.io/img/done.png)  
 Project link: [![Fork](https://vicentiubacioiu.github.io/img/fork.png)](https://github.com/VicentiuBacioiu/electron-stock-market)  
   
-![Electron Stock Market](https://vicentiubacioiu.github.io/img/stock.PNG)  
+![Electron Stock Market](https://vicentiubacioiu.github.io/img/stocks.PNG)  
 <br><br/>
 ## Electron Music Player
 A bare-bones, cross-platform music player app, written in HTML, CSS and JavaScript using the Electron framework.
