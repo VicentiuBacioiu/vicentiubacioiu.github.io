@@ -6,6 +6,7 @@ A really simple Stock Market app, written in Vue.js using the Electron framework
 
 Project status: **Done** ![In Progress](https://vicentiubacioiu.github.io/img/done.png)  
 Project link: [![Fork](https://vicentiubacioiu.github.io/img/fork.png)](https://github.com/VicentiuBacioiu/electron-stock-market)  
+Tutorial: [Click here](https://thecodepill.com/electron-stocks-app)
   
 ![Electron Stock Market](https://vicentiubacioiu.github.io/img/stocks.PNG)  
 <br><br/>
